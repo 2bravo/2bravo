@@ -1,6 +1,6 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1040735601987936256/1645654906/1500x500)
 <h1 align="center">Hi 👋, I'm Bravo</h1>
-<h3 align="center">A passionate of code currently studying web development.</h3>
+<h3 align="center">Currently studying web development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2bravo&label=Profile%20views&color=0e75b6&style=flat" alt="2bravo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2bravo" alt="2bravo" /></a> </p>
