@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Header with Typing Animation -->
-<img src="https://raw.githubusercontent.com/2bravo/2bravo/main/assets/header-cyber.png" alt="Header" width="100%"/>
+<img src="https://pbs.twimg.com/profile_banners/1040735601987936256/1749037505/600x200" alt="Header" width="100%"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Ricardo Bravo García**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm **Bravo**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=ff6b35&center=true&vCenter=true&width=940&lines=%F0%9F%94%90+Cybersecurity+%26+Ethical+Hacking;%F0%9F%8E%AF+Counter+Strike+2+Enthusiast;%F0%9F%8F%8D%EF%B8%8F+Bikes+%26+Tech+Lover;%F0%9F%92%BB+ASIR+Student+at+UNIR;Full+Stack+Cybersecurity+Student)](https://git.io/typing-svg)
 
@@ -63,59 +63,6 @@ Passionate about ethical hacking and security. I love thinking like an attacker 
 
 ---
 
-## 💪 Skills
-
-<div align="center">
-
-### Operating Systems
-| Skill | Level |
-|-------|-------|
-| Linux | ⭐⭐⭐⭐ Advanced |
-| Windows Server | ⭐⭐⭐⭐ Advanced |
-| Kali Linux | ⭐⭐⭐ Intermediate |
-| Docker | ⭐⭐⭐ Intermediate |
-| Kubernetes (K3s) | ⭐⭐⭐ Intermediate |
-
-### Security
-| Skill | Level |
-|-------|-------|
-| Network Security | ⭐⭐⭐ Intermediate |
-| Pentesting | ⭐⭐ Basic |
-| Wireshark/TCP/IP | ⭐⭐⭐ Intermediate |
-| Ethical Hacking | ⭐⭐⭐ Intermediate |
-
-### Development
-| Skill | Level |
-|-------|-------|
-| Python | ⭐⭐⭐ Intermediate |
-| Bash Scripting | ⭐⭐ Basic |
-| SQL | ⭐⭐ Basic |
-| Git/GitHub | ⭐⭐⭐⭐ Advanced |
-
-</div>
-
----
-
-## 🎮 Interests
-
-<div align="center">
-
-### 🖥️ Cybersecurity & Ethical Hacking
-Pentesting, vulnerability analysis, and system protection. Always learning new techniques.
-
-### 🏆 CTF Competitions
-Active player on Hack The Box and TryHackMe. Love solving security challenges.
-
-### 🎯 Counter Strike 2 & Esports
-Competitive CS2 player. Esports taught me teamwork, strategy, and decision-making under pressure.
-
-### 🏍️ Motorcycles
-Two wheels enthusiast. Riding gives me energy to tackle new challenges.
-
-</div>
-
----
-
 ## 📩 Contact
 
 <div align="center">
@@ -124,8 +71,10 @@ Let's connect! Collaborate on cybersecurity projects, team up in CS2, or just ch
 
 [![Email](https://img.shields.io/badge/2bravo@protonmail.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:2bravo@protonmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff6b35?style=for-the-badge&logo=vercel&logoColor=white)](https://2bravo.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2bravo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-bravo-garcía)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2bravog/)
+[![Steam](https://img.shields.io/badge/Steam-ff6b35?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/2bravog)
+[![Twitter](https://img.shields.io/badge/Twitter-ff6b35?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/2bravog)
 
 </div>
 
@@ -133,7 +82,7 @@ Let's connect! Collaborate on cybersecurity projects, team up in CS2, or just ch
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/2bravo/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=your-2bravog&color=orange)
 
 </div>
 
@@ -142,3 +91,4 @@ Let's connect! Collaborate on cybersecurity projects, team up in CS2, or just ch
 **Made with 🔥 by @2bravog**
 
 </div>
+
